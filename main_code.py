@@ -64,7 +64,7 @@ def process_response(message):
     elif "fuck" in str.lower(message):
         return "i hope someday you devlop Self-cannibalistic traits and eat yourself to death!"
     else:
-        return "mhmm👀! i can't get you and Priyansh is not here, Please call him if its urgent or he will reply you asap! if you are bored type 'song' or 'poem'"
+        return "mhmm👀! i am a chatbot so, i can't get you and Priyansh is not here, Please call him if its urgent or he will reply you asap! if you are bored type 'song' or 'poem'"
     
 
 #  CHECKING FOR NEW MESSAGES
