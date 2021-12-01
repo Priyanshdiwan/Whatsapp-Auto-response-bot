@@ -5,7 +5,7 @@ import pyperclip
 
 
 
-sleep(5)
+sleep(5)#as we need to time to switch to whatsapp tab after clicking run
 
 
 # position1=pt.locateOnScreen("whatsapp_autoresponse/smile&paperclip.png",confidence=.8)
